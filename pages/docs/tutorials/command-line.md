@@ -13,7 +13,7 @@ related:
 Every release ships with a standalone version of the compiler. We can download the latest version (`kotlin-compiler-{{ site.data.releases.latest.version }}.zip`) from [GitHub Releases]({{ site.data.releases.latest.url }}).
 
 #### Manual Install
-Unzip the standalone compiler into a directory and optionally add the `bin` directory to the system path. The `bin` directory contains the scripts needed to compile and run Kotlin on Windows, OS X and Linux.
+Unzip the standalone compiler into a directory and optionally add the `bin` directory to the system path. The `bin` directory contains the scripts needed to compile and run Kotlin on Windows, macOS and Linux.
 
 #### SDKMAN!
 An easier way to install Kotlin on UNIX based systems such as OS X, Linux, Cygwin, FreeBSD and Solaris is by using [SDKMAN!](http://sdkman.io).
